@@ -1,0 +1,59 @@
+body {
+    font-family:Verdana,sans-serif;font-size:0.8em;
+ background-image: url("background.png");
+ background-image:no-repeat center fixed;
+ background-size: cover;
+ 
+}
+
+h1.center {
+ text-align: center;
+}
+p.center {
+ text-align: center;
+}
+
+header {
+ border:1px solid grey;
+ margin:5px;
+ margin-bottom:5px;
+ padding:8px;
+ color:black;
+}
+
+nav ul  {
+ list-style-type: none;
+    margin:0;
+ padding:0;
+ overflow: hidden;
+    background-color: #333;
+}
+
+nav ul li {
+    display:inline;
+    text-align: center;
+    padding: 6px 16px;
+ margin:5px;
+ float: left;
+ border-right:1px solid #bbb;
+}
+
+
+ 
+th, td {
+ background-color:white;
+ border: 1px solid black;
+ border-collapse: collapse;
+ text-align: left;
+ padding: 15px;
+ Color:black; 
+}
+table.second{
+ 
+}
+
+a: {color:white;}
+a:hover{Color: white;}
+a:active{Color: white;}
+a:visited{color: white;}
+
